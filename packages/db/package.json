@@ -1,7 +1,7 @@
 {
   "name": "@repo/db",
-  "version": "0.0.0",
-  "main": "index.js",
+  "version": "1.0.0",
+  "private": true,
   "exports": {
     "./client": "./src/index.ts"
   },
